@@ -10,7 +10,7 @@ function App() {
         <Card text="Make TypeScript Project" />
       </Column>
       <Column text="In Progress">
-        <Card text="Make TypeScript Project" />
+        <Card text="Gathered Requirements" />
       </Column>
       <Column text="Completed">
         <Card text="Make TypeScript Project" />
